@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+   
+}
+html{
+    /* font-size: 62.5%; */
+}
+body{
+    
+    font-style:bol;
+    color: #121212;
+    font-size: 3rem;
+    background-color: #F2F2F2;
+    
+}

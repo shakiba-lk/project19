@@ -1,0 +1,22 @@
+.container{
+    max-width: 1440px;
+}
+
+.s-i{
+    width: 30rem;
+    height: 30rem;
+}
+.p-i{
+    padding-top: 1rem;
+    padding-left: 6rem;
+    padding-bottom: 1rem;
+}
+.pp-i{
+    margin: 1rem;
+    line-height:2rem ;
+}
+.c-c{
+    margin-top: 4rem;
+    line-height: 2rem;
+    width:50rem ;
+}
